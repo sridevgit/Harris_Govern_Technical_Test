@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harris_Govern_Technical_Test", "Harris_Govern_Technical_Test\Harris_Govern_Technical_Test.csproj", "{443F536F-D883-4241-9B2B-E8E92BFA575F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443F536F-D883-4241-9B2B-E8E92BFA575F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443F536F-D883-4241-9B2B-E8E92BFA575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443F536F-D883-4241-9B2B-E8E92BFA575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443F536F-D883-4241-9B2B-E8E92BFA575F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9473DAD4-36D8-42DF-81C7-2B1116E0FB1A}
+	EndGlobalSection
+EndGlobal
